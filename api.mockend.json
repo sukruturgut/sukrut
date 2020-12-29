@@ -1,21 +1,13 @@
 [
     {
-      "id"=1;
-      "name"="Şükrü TURGUT",
-      "dahili"="2940"
+      "id":1;
+      "name":"Şükrü TURGUT",
+      "phone":"2940"
     },
     {
-      "id"=2;
-      "name"="Şükrü TURGUT2",
-      "dahili"="2941"
-    },{
-      "id"=3;
-      "name"="Şükrü TURGUT3",
-      "dahili"="2942"
-    },{
-      "id"=4;
-      "name"="Şükrü TURGUT4",
-      "dahili"="2944"
+      "id":2;
+      "name":"Şükrü TURGUT2",
+      "phone":"2941"
     }
     
 ]
